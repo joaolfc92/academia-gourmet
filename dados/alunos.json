@@ -1,0 +1,2102 @@
+[
+  {
+    "gender": "Feminino",
+    "city": "Natal",
+    "state": "RN",
+    "course_id": 22,
+    "course_name": "Confeitaria Profissional (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Diadema",
+    "state": "SP",
+    "course_id": 12,
+    "course_name": "Cake designer - 144 Horas"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 5,
+    "course_name": "Doceiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Belford Roxo",
+    "state": "RJ",
+    "course_id": 12,
+    "course_name": "Cake designer - 144 Horas"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Guarulhos",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Indaiatuba",
+    "state": "SP",
+    "course_id": 2,
+    "course_name": "Chef Mix"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Vila Velha",
+    "state": "ES",
+    "course_id": 12,
+    "course_name": "Cake designer - 144 Horas"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Niterói",
+    "state": "RJ",
+    "course_id": 22,
+    "course_name": "Confeitaria Profissional (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 5,
+    "course_name": "Doceiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "SANTO ANDRE",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Vila Velha",
+    "state": "ES",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Mau",
+    "state": "SP",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Vicente",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Vila Velha",
+    "state": "ES",
+    "course_id": 15,
+    "course_name": "Curso Antigo"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Porto Velho",
+    "state": "RO",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Campinas",
+    "state": "SP",
+    "course_id": 22,
+    "course_name": "Confeitaria Profissional (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Carapicuíba",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São José dos Campos",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Recife",
+    "state": "PE",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 22,
+    "course_name": "Confeitaria Profissional (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Serra",
+    "state": "ES",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Paulista",
+    "state": "PE",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Belford Roxo",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Embu das Artes",
+    "state": "SP",
+    "course_id": 21,
+    "course_name": "Faça e Venda"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Angra dos Reis",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Paracambi",
+    "state": "RJ",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Belford Roxo",
+    "state": "RJ",
+    "course_id": 21,
+    "course_name": "Faça e Venda"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": null,
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 5,
+    "course_name": "Doceiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Nilpolis",
+    "state": "RJ",
+    "course_id": 2,
+    "course_name": "Chef Mix"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Curitiba",
+    "state": "PR",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Magé",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Recife",
+    "state": "PE",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Igarap",
+    "state": "MG",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": null,
+    "city": "Itapecerica da Serra",
+    "state": "SP",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Ferraz de Vasconcelos",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Cotia",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Iguaba Grande",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Mesquita",
+    "state": "RJ",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 9,
+    "course_name": "Padeiro Profissional"
+  },
+  {
+    "gender": null,
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Recife",
+    "state": "PE",
+    "course_id": 2,
+    "course_name": "Chef Mix"
+  },
+  {
+    "gender": "Masculino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Curitiba",
+    "state": "PR",
+    "course_id": 5,
+    "course_name": "Doceiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Vitória",
+    "state": "ES",
+    "course_id": 22,
+    "course_name": "Confeitaria Profissional (2022)"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Nova Iguaçu",
+    "state": "RJ",
+    "course_id": 2,
+    "course_name": "Chef Mix"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Barueri",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São João de Meriti",
+    "state": "RJ",
+    "course_id": 2,
+    "course_name": "Chef Mix"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Brasília",
+    "state": "DF",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Porto Alegre",
+    "state": "RS",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 22,
+    "course_name": "Confeitaria Profissional (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Cabo Frio",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 9,
+    "course_name": "Padeiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Sumar",
+    "state": "SP",
+    "course_id": 1,
+    "course_name": "Cake Designer"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Mauá",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Gonçalo",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": null,
+    "city": "Duque de Caxias",
+    "state": "RJ",
+    "course_id": 7,
+    "course_name": "Food Truck Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Belford Roxo",
+    "state": "RJ",
+    "course_id": 20,
+    "course_name": "Doceiro Profissional - 96 Horas (2022)"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Brasília",
+    "state": "DF",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Ibirité",
+    "state": "MG",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Serra",
+    "state": "ES",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Ibirit",
+    "state": "MG",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Santo André",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Masculino",
+    "city": "São José do Rio Preto",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Belford Roxo",
+    "state": "RJ",
+    "course_id": 8,
+    "course_name": "Cozinheiro Funcional & Fit"
+  },
+  {
+    "gender": null,
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Osasco",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Niterói",
+    "state": "RJ",
+    "course_id": 1,
+    "course_name": "Cake Designer"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Mogi das Cruzes",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Duque de Caxias",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 21,
+    "course_name": "Faça e Venda"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Itapevi",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Cachoeiro de Itapemirim",
+    "state": "ES",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Arujá",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Praia grande",
+    "state": "SP",
+    "course_id": 20,
+    "course_name": "Doceiro Profissional - 96 Horas (2022)"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Queimados",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 2,
+    "course_name": "Chef Mix"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Barueri",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Serra",
+    "state": "ES",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Serra",
+    "state": "ES",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": null,
+    "city": "So Bernardo do Campo",
+    "state": "SP",
+    "course_id": 2,
+    "course_name": "Chef Mix"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Ibirité",
+    "state": "MG",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": null,
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Nova Friburgo",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Guapimirim",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Angra dos Reis",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 2,
+    "course_name": "Chef Mix"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Recife",
+    "state": "PE",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Nova Iguaçu",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Itapemirim",
+    "state": "ES",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Duque de Caxias",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Campinas",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 13,
+    "course_name": "Doceiro Profissional - 144 Horas"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Masculino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 2,
+    "course_name": "Chef Mix"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Joinville",
+    "state": "SC",
+    "course_id": 8,
+    "course_name": "Cozinheiro Funcional & Fit"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Cidade Ocidental",
+    "state": "GO",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Castelo",
+    "state": "ES",
+    "course_id": 7,
+    "course_name": "Food Truck Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Vitria",
+    "state": "RJ",
+    "course_id": 5,
+    "course_name": "Doceiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 21,
+    "course_name": "Faça e Venda"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Vitria",
+    "state": "ES",
+    "course_id": 15,
+    "course_name": "Curso Antigo"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Santo André",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Niterói",
+    "state": "RJ",
+    "course_id": 1,
+    "course_name": "Cake Designer"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Taboão da Serra",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Lourenço da Mata",
+    "state": "PE",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Nova Iguaçu",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Vitória",
+    "state": "ES",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São José",
+    "state": "SC",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Masculino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Praia Grande",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Contagem",
+    "state": "MG",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Sabar",
+    "state": "MG",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Santo André",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Presidente Prudente",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Nova Odessa",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 21,
+    "course_name": "Faça e Venda"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Paraty",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Cachoeiro de Itapemirim",
+    "state": "ES",
+    "course_id": 5,
+    "course_name": "Doceiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 21,
+    "course_name": "Faça e Venda"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Araújos",
+    "state": "MG",
+    "course_id": 2,
+    "course_name": "Chef Mix"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Recife",
+    "state": "PE",
+    "course_id": 13,
+    "course_name": "Doceiro Profissional - 144 Horas"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 8,
+    "course_name": "Cozinheiro Funcional & Fit"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Guarapari",
+    "state": "ES",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Santo André",
+    "state": "SP",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Itaquaquecetuba",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Itaboraí",
+    "state": "RJ",
+    "course_id": 2,
+    "course_name": "Chef Mix"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Itapecerica da Serra",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": null,
+    "city": "So Bernardo do Campo",
+    "state": "SP",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Queimados",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Serra",
+    "state": "ES",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Vitria",
+    "state": "RJ",
+    "course_id": 15,
+    "course_name": "Curso Antigo"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Nilópolis",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "RJ",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 2,
+    "course_name": "Chef Mix"
+  },
+  {
+    "gender": null,
+    "city": "Nova Iguau",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Petrópolis",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Betim",
+    "state": "MG",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Duque de Caxias",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Recife",
+    "state": "PE",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Petrópolis",
+    "state": "RJ",
+    "course_id": 22,
+    "course_name": "Confeitaria Profissional (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Nova Iguaçu",
+    "state": "RJ",
+    "course_id": 1,
+    "course_name": "Cake Designer"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Parnamirim",
+    "state": "RN",
+    "course_id": 20,
+    "course_name": "Doceiro Profissional - 96 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Vila Velha",
+    "state": "ES",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paul",
+    "state": "SP",
+    "course_id": 22,
+    "course_name": "Confeitaria Profissional (2022)"
+  },
+  {
+    "gender": null,
+    "city": "São Bernardo do Campo",
+    "state": "MG",
+    "course_id": 2,
+    "course_name": "Chef Mix"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Santana de Parnaíba",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Mesquita",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Nova Iguaçu",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Masculino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 22,
+    "course_name": "Confeitaria Profissional (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Resende",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Maricá",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": null,
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Macaíba",
+    "state": "RN",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Belford Roxo",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Nova Iguaçu",
+    "state": "RJ",
+    "course_id": 5,
+    "course_name": "Doceiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Cariacica",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Cachoeiro de Itapemirim",
+    "state": "ES",
+    "course_id": 13,
+    "course_name": "Doceiro Profissional - 144 Horas"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 23,
+    "course_name": "Gourmetzinhos (versão 8 aulas)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São João de Meriti",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": null,
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Divinópolis",
+    "state": "MG",
+    "course_id": 5,
+    "course_name": "Doceiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Mogi das Cruzes",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Santana de Parnaíba",
+    "state": "SP",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Nova Iguaçu",
+    "state": "RJ",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Nova Iguaçu",
+    "state": "RJ",
+    "course_id": 13,
+    "course_name": "Doceiro Profissional - 144 Horas"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Recife",
+    "state": "PE",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Brasília",
+    "state": "DF",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": null,
+    "city": "Jundia",
+    "state": "SP",
+    "course_id": 5,
+    "course_name": "Doceiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São João de Meriti",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Magé",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Cajamar",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Vila Velha",
+    "state": "ES",
+    "course_id": 12,
+    "course_name": "Cake designer - 144 Horas"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Diadema",
+    "state": "SP",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Petrópolis",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Vila Velha",
+    "state": "RJ",
+    "course_id": 15,
+    "course_name": "Curso Antigo"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 8,
+    "course_name": "Cozinheiro Funcional & Fit"
+  },
+  {
+    "gender": "Masculino",
+    "city": "São João de Meriti",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Linhares",
+    "state": "ES",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Vitória",
+    "state": "ES",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 8,
+    "course_name": "Cozinheiro Funcional & Fit"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Belém",
+    "state": "PA",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Feira de Santana",
+    "state": "BA",
+    "course_id": 22,
+    "course_name": "Confeitaria Profissional (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Araruama",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Diadema",
+    "state": "SP",
+    "course_id": 12,
+    "course_name": "Cake designer - 144 Horas"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Itaguaí",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Praia Grande",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": null,
+    "city": "Nova Iguau",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "linhares",
+    "state": "ES",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Paracambi",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "São João de Meriti",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": null,
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Guarulhos",
+    "state": "SP",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rancharia",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Vitória",
+    "state": "ES",
+    "course_id": 8,
+    "course_name": "Cozinheiro Funcional & Fit"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Taboão da Serra",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": null,
+    "city": "Duque de Caxias",
+    "state": "RJ",
+    "course_id": 5,
+    "course_name": "Doceiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Belford Roxo",
+    "state": "RJ",
+    "course_id": 2,
+    "course_name": "Chef Mix"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Brasília",
+    "state": "DF",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Masculino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 9,
+    "course_name": "Padeiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Gonçalo",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 9,
+    "course_name": "Padeiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Queimados",
+    "state": "RJ",
+    "course_id": 12,
+    "course_name": "Cake designer - 144 Horas"
+  },
+  {
+    "gender": "Masculino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Mairiporã",
+    "state": "SP",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Nova Iguaçu",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Belém",
+    "state": "PA",
+    "course_id": 21,
+    "course_name": "Faça e Venda"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Nova Iguaçu",
+    "state": "RJ",
+    "course_id": 1,
+    "course_name": "Cake Designer"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Votorantim",
+    "state": "SP",
+    "course_id": 21,
+    "course_name": "Faça e Venda"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Belo Horizonte",
+    "state": "MG",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 22,
+    "course_name": "Confeitaria Profissional (2022)"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Cachoeiro de Itapemirim",
+    "state": "ES",
+    "course_id": 8,
+    "course_name": "Cozinheiro Funcional & Fit"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Brasília",
+    "state": "DF",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São João de Meriti",
+    "state": "RJ",
+    "course_id": 6,
+    "course_name": "Master Confeiteiro"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São João de Meriti",
+    "state": "RJ",
+    "course_id": 14,
+    "course_name": "Chef Mix - 112 Horas (2022)"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Santo André",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 5,
+    "course_name": "Doceiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Itaquaquecetuba",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Campos dos Goytacazes",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Silva Jardim",
+    "state": "RJ",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Feminino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 1,
+    "course_name": "Cake Designer"
+  },
+  {
+    "gender": "Masculino",
+    "city": "São Paulo",
+    "state": "SP",
+    "course_id": 10,
+    "course_name": "Confeiteiro Profissional"
+  },
+  {
+    "gender": "Masculino",
+    "city": "Rio de Janeiro",
+    "state": "RJ",
+    "course_id": 4,
+    "course_name": "Cozinheiro Profissional"
+  }
+]
